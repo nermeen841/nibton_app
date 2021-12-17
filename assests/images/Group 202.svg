@@ -1,0 +1,23 @@
+<svg id="Group_202" data-name="Group 202" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="26" viewBox="0 0 27 26">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9000"/>
+      <stop offset="1" stop-color="#ffbe03"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_199" data-name="Group 199" transform="translate(0)">
+    <rect id="Rectangle_211" data-name="Rectangle 211" width="7" height="6" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_212" data-name="Rectangle 212" width="7" height="6" transform="translate(10)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_213" data-name="Rectangle 213" width="7" height="6" transform="translate(20)" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Group_200" data-name="Group 200" transform="translate(0 10.298)">
+    <rect id="Rectangle_211-2" data-name="Rectangle 211" width="7" height="6" transform="translate(0 -0.298)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_212-2" data-name="Rectangle 212" width="7" height="6" transform="translate(10 -0.298)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_213-2" data-name="Rectangle 213" width="7" height="6" transform="translate(20 -0.298)" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Group_201" data-name="Group 201" transform="translate(0 20.441)">
+    <rect id="Rectangle_211-3" data-name="Rectangle 211" width="7" height="6" transform="translate(0 -0.441)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_212-3" data-name="Rectangle 212" width="7" height="6" transform="translate(10 -0.441)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_213-3" data-name="Rectangle 213" width="7" height="6" transform="translate(20 -0.441)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
